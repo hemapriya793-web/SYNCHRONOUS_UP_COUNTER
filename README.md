@@ -44,7 +44,8 @@ RTL LOGIC UP COUNTER:
 [EX 11 Dia.pdf](https://github.com/user-attachments/files/24151671/EX.11.Dia.pdf)
 
 WAVEFORM:
-<img width="1543" height="970" alt="1 (2)" src="https://github.com/user-attachments/assets/e681dd0e-445a-4c08-8691-46c422d0059e" />
+[synchronous up counters.pdf](https://github.com/user-attachments/files/24171293/synchronous.up.counters.pdf)
+
 
 NAME: HEMA PRIYA
 
